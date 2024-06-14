@@ -20,32 +20,32 @@ The GPA Calculator is a C++ program that computes a student's Cumulative Grade P
 
 ## Sample Input/Output
 
-Enter the number of semesters: 2
+    Enter the number of semesters: 2
 
-Enter the number of courses for semester 1: 3
-Enter the name of course 1: Math
-Enter the grade for course 1: 3.7
-Enter the credit hours for course 1: 3
-Enter the name of course 2: Physics
-Enter the grade for course 2: 3.5
-Enter the credit hours for course 2: 4
-Enter the name of course 3: Chemistry
-Enter the grade for course 3: 4.0
-Enter the credit hours for course 3: 3
+    Enter the number of courses for semester 1: 3
+    Enter the name of course 1: Math
+    Enter the grade for course 1: 3.7
+    Enter the credit hours for course 1: 3
+    Enter the name of course 2: Physics
+    Enter the grade for course 2: 3.5
+    Enter the credit hours for course 2: 4
+    Enter the name of course 3: Chemistry
+    Enter the grade for course 3: 4.0
+    Enter the credit hours for course 3: 3
 
-GPA for semester 1: 3.7
+    GPA for semester 1: 3.7
 
-Enter the number of courses for semester 2: 2
-Enter the name of course 1: Biology
-Enter the grade for course 1: 3.3
-Enter the credit hours for course 1: 3
-Enter the name of course 2: English
-Enter the grade for course 2: 3.8
-Enter the credit hours for course 2: 3
+    Enter the number of courses for semester 2: 2
+    Enter the name of course 1: Biology
+    Enter the grade for course 1: 3.3
+    Enter the credit hours for course 1: 3
+    Enter the name of course 2: English
+    Enter the grade for course 2: 3.8
+    Enter the credit hours for course 2: 3
 
-GPA for semester 2: 3.55
+    GPA for semester 2: 3.55
 
-Cumulative GPA (CGPA): 3.625
+    Cumulative GPA (CGPA): 3.625
 
 ## Implementation Details:
 
