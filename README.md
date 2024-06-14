@@ -49,8 +49,6 @@ Cumulative GPA (CGPA): 3.625
 
 ## Implementation Details:
 
-## Implementation Details
-
 The program is implemented in C++ and uses a class to store course details and a function to calculate the GPA for each semester. The CGPA is calculated based on the cumulative grade points and credit hours from all semesters.
 
 ### Class Definition
