@@ -53,7 +53,6 @@ The program is implemented in C++ and uses a class to store course details and a
 
 ### Class Definition
 
-```cpp
     Class Course {
     public:
         string name;
